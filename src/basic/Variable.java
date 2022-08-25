@@ -29,6 +29,12 @@ public class Variable {
         int g= a % b;
         System.out.println("The Value of G is " + g);
 
-        
+        int h= 4;
+        h += 3;
+        System.out.println("The Value of H is " + h);
+
+        int i = 5;
+        i++;
+        System.out.println("The Value of I is " + i);
     }
 }
